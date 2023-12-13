@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalisationTest
+
+  Created by pnkbksh on 12/09/23.
+  
+*/
+
+"welcome_screen_title" = "स्वागत है";
+"login_button" = "लॉग इन";
+"localisation" = "नमस्ते, मैं लोकलाइजेशन चेक कर रहा हूँ, यह XIB मान को अपडेट करने में IBOutlet बनाए बिना मदद करेगा";
+"update_elements_description" = "इसी फॉर्मेट के साथ अन्य UI तत्वों को स्थानीयकृत स्ट्रिंग्स के साथ अपडेट करें";

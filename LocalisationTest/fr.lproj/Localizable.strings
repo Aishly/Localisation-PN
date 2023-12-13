@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LocalisationTest
+
+  Created by pnkbksh on 12/09/23.
+  
+*/
+"welcome_screen_title" = "Bienvenue";
+"login_button" = "Se connecter";
+"localisation" = "Bonjour, je vérifie la localisation, cela aidera à mettre à jour la valeur XIB sans créer de IBOutlet pour la variable";
+"update_elements_description" = "Mettre à jour d'autres éléments d'interface utilisateur avec des chaînes localisées dans le même format";

@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LocalisationTest
+
+  Created by pnkbksh on 12/09/23.
+  
+*/
+"welcome_screen_title" = "Welcome";
+"login_button" = "Log in";
+"localisation" = "Hi, I am checking localisation, it will help to update xib value without making iboutlet of veriable";
+"update_elements_description" = "Update other UI elements with localized strings same as this format";
